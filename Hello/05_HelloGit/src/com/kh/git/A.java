@@ -1,6 +1,7 @@
 package com.kh.git;
 
 public class A {
-  pubic void test(){
+  public void test(){
+  System.out.println("작업 끝");
   }
 }
