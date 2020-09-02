@@ -1,5 +1,6 @@
 package com.kh.git;
 
 public class E {
-	//tes
+	//test
 }
+
